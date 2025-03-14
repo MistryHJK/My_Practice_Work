@@ -30,4 +30,4 @@ obj.insert(20)
 obj.insert(30)
 obj.insert(40)
 obj.insert(50)
-obj.display()
+obj.display() # Output =>  10->20->30->40->50->None
